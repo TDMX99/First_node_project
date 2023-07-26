@@ -103,7 +103,7 @@ async function question4() {
         ]
     });
 
-    return handleAnswer(answers.question_4 == 'The Skrulls');
+    return handleAnswer(answers.question_4 == 'The Chitauri');
 }
 
 async function handleAnswer(isCorrect) {
